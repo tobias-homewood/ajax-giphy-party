@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(28, 29, 30);
+}
+form {
+  text-align: center;
+}
+h1 {
+  font-size: 40px;
+  color: rgb(244, 241, 237);
+  text-align: center;
+  background-color: rgb(62, 61, 61);
+}
+#search-button {
+  color: rgb(244, 241, 237);
+  background-color: rgb(62, 61, 61);
+  font-size: 20px;
+}
+#giphy-input {
+  font-size: 20px;
+}
+
+#remove-button {
+  color: rgb(244, 241, 237);
+  background-color: rgb(236, 35, 35);
+  font-size: 20px;
+}
+#image-results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
